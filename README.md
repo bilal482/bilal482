@@ -65,6 +65,8 @@ Welcome to my GitHub profile! With **6+ years of experience** in full-stack deve
 - **Technologies:** Laravel, Vue.js  
 - Designed a scalable e-commerce platform for fitness apparel.  
 
+
+### I have completed several other projects.
 ---
 
 ## 🛠️ Skills  
